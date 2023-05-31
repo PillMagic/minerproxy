@@ -2,3 +2,6 @@ minerproxy - proxy between your miners and mining server. It prevents miners fro
 It works only for Linux systems.
 Multithreaded;
 Check miners passwords;
+
+Compile:
+g++ proxy.cpp -o proxy -lpthread
