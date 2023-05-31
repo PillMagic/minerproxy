@@ -1,0 +1,4 @@
+minerproxy - proxy between your miners and mining server. It prevents miners from blocking by mining server because of overload.
+It works only for Linux systems.
+Multithreaded;
+Check miners passwords;
